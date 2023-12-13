@@ -1,0 +1,45 @@
+
+.title{
+    padding-top: 1%;
+    margin: auto;
+    float: left;
+    font-weight: bolder;
+    color: #023047;
+}
+#nav {
+    position: fixed;
+  
+    background-color: #219ebc;
+    width: 100%;
+    z-index: 2;
+    padding: 10px;
+    height: 10%;
+
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+#userInfo {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}

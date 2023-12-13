@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "name":" Crayon",
+        "price": 45,
+        "image": "image/crayon.png"
+    },
+    {
+        "id": 2,
+        "name":" Color Pencil",
+        "price": 55,
+        "image": "image/items.png"
+    },
+    {
+        "id": 3,
+        "name":" Pen Pencil Grip Sleeve",
+        "price": 11,
+        "image": "image/items2.png"
+    },
+    {
+        "id": 4,
+        "name":" Pencil Sharpener 24pcs",
+        "price": 50,
+        "image": "image/items3.png"
+    },
+    {
+        "id": 5,
+        "name":" Glue Sticks (10pcs)",
+        "price": 25,
+        "image": "image/items4.png"
+    },
+    {
+        "id": 6,
+        "name":" Eraser",
+        "price": 25,
+        "image": "image/items5.png"
+    },
+    {
+        "id": 7,
+        "name":" 3M Scotch Kids Scissors",
+        "price": 65,
+        "image": "image/items6.png"
+    },
+    {
+        "id": 8,
+        "name":" Plastic Sliding Folder A4 12 pcs",
+        "price": 59,
+        "image": "image/items7.png"
+    },
+
+    {
+        "id": 9,
+        "name":"  Fortune Construction Paper Assorted Colors",
+        "price": 40,
+        "image": "image/items8.png"
+    }
+
+    ,
+
+    {
+        "id": 10,
+        "name":" Hots Notebook Neon Colors",
+        "price": 45,
+        "image": "image/items10.png"
+    }
+
+    ,
+
+    {
+        "id": 11,
+        "name":" HBW Ballpen",
+        "price": 28,
+        "image": "image/items11.png"
+    }
+
+    ,
+
+    {
+        "id": 12,
+        "name":" Advance Index Card 3x5 / 4x6 / 5x8",
+        "price": 38,
+        "image": "image/items13.png"
+    }
+
+    ,
+
+    {
+        "id": 14,
+        "name":" HBW 211 Permanent Marker",
+        "price": 19,
+        "image": "image/items14.png"
+    }
+
+    ,
+
+    {
+        "id": 15,
+        "name":" HBW Pencil",
+        "price": 45,
+        "image": "image/pencil.png"
+    }
+
+    ,
+
+    {
+        "id": 16,
+        "name":"  Pencil Box",
+        "price": 48,
+        "image": "image/pencil-box.png"
+    }
+
+   
+
+]
