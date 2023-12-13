@@ -300,7 +300,7 @@ body.showCart .container{
         grid-template-columns: repeat(2, 1fr);
     }
     #nav {
-        position: relative;
+        
         
         margin-top: 1px;
         margin-left: 10px;
@@ -321,7 +321,7 @@ body.showCart .container{
     }
    
     .button{
-        position: relative;
+   
         float: right;
         margin-top: -1px;
         margin-left: 10px;
